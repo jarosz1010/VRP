@@ -1,0 +1,10 @@
+{
+  "version": 2,
+  "dgSpecHash": "0pA5B4n6AefBXJxKs+YgnXRaym+PQYdwedLpuC6jmmU/hEQ+FwlAtzvQSe5zQny4TWP9VrvXqfDlkoy9+8rvzg==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\Michał\\source\\repos\\VRP\\VRP\\VRP.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\Michał\\.nuget\\packages\\lumenworkscsvreader\\4.0.0\\lumenworkscsvreader.4.0.0.nupkg.sha512"
+  ],
+  "logs": []
+}
